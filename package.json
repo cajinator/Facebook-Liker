@@ -1,0 +1,28 @@
+{
+  "name": "faceliker",
+  "version": "1.0.0",
+  "description": "Simple facebook 'liker' for make \"I Like\" over a list of keywords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajinator/Facebook-Liker.git"
+  },
+  "keywords": [
+    "Facebook",
+    "Like",
+    "Puppeter",
+    "NodeJS"
+  ],
+  "author": "Jorge Cajina D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cajinator/Facebook-Liker/issues"
+  },
+  "homepage": "https://github.com/cajinator/Facebook-Liker#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
